@@ -13,7 +13,7 @@ All commands are written in Python 3.7. For submitting your command (you can onl
 ```python
 import amodule
 
-print amodule.str
+print(amodule.str)
 ```
 
 **amodule.py**
