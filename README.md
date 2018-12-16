@@ -4,7 +4,7 @@
 
 ## Contributing
 
-All commands are written in Python 2.7. For submitting your command (you can only submit commands), you have to put your main Python script and other modules inside a zip file. The name of the command will be the name of the script.
+All commands are written in Python 3.7. For submitting your command (you can only submit commands), you have to put your main Python script and other modules inside a zip file. The name of the command will be the name of the script.
 
 ### Example
 
